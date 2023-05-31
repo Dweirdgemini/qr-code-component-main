@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 300px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    justify-content: center;
+  }
+
+  
+  .card img {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  
+  .card-content {
+    padding: 10px;
+  }
+  
+  .card-content h3 {
+    padding-left: 45%;
+    font-size: 20px;
+    margin-top: 0;
+  }
+  
+  .card-content p {
+    margin-bottom: 10px;
+  }
+  
+  
