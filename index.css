@@ -30,7 +30,8 @@ body{
     font-size: small;
     margin-top: 0;
     padding-left: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Outfit', sans-serif;
+    align-items: center;
   }
   
   .card-content p {
@@ -38,5 +39,6 @@ body{
     color:rgb(125, 122, 122) ;
     padding: 2px;
     font-size: small;
+    text-align: center;
   }
   
